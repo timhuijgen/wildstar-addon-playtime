@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Timmey" APIVersion="8" Name="Playtime" Description="Wildstar playtimer, Alert and notifications">
+	<Script Name="Playtime.lua"/>
+	<Script Name="dump.lua"/>
+    <Form Name="TimerWindow.xml"/>
+</Addon>
